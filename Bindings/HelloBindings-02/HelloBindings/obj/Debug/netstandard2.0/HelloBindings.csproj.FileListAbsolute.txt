@@ -1,0 +1,13 @@
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\bin\Debug\netstandard2.0\HelloBindings.deps.json
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\bin\Debug\netstandard2.0\HelloBindings.dll
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\bin\Debug\netstandard2.0\ref\HelloBindings.dll
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\bin\Debug\netstandard2.0\HelloBindings.pdb
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\obj\Debug\netstandard2.0\HelloBindings.csprojAssemblyReference.cache
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\obj\Debug\netstandard2.0\HelloBindings.AssemblyInfoInputs.cache
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\obj\Debug\netstandard2.0\HelloBindings.AssemblyInfo.cs
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\obj\Debug\netstandard2.0\HelloBindings.dll
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\obj\Debug\netstandard2.0\ref\HelloBindings.dll
+C:\Users\ljones30\Desktop\Bindings\HelloBindings-02\HelloBindings\obj\Debug\netstandard2.0\HelloBindings.pdb
